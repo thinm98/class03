@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test_login_list_email,Chrome 115.0.0.0,,,2023-08-09 14:38:12,2023-08-09 14:39:10,57.367s,PASSED
+,,,,,,,
+Test Cases/test_03,Chrome 115.0.0.0,,,2023-08-09 14:38:13,2023-08-09 14:38:33,20.492s,PASSED
+openBrowser(url_register),Chrome 115.0.0.0,,,2023-08-09 14:38:14,2023-08-09 14:38:25,11.026s,PASSED
+"firstName = ""test""",Chrome 115.0.0.0,,,2023-08-09 14:38:25,2023-08-09 14:38:25,0.001s,PASSED
+"lastName = ""thinm""",Chrome 115.0.0.0,,,2023-08-09 14:38:25,2023-08-09 14:38:25,0.001s,PASSED
+"pass = ""Pov689y2Uq6sPwo50fvP+g==""",Chrome 115.0.0.0,,,2023-08-09 14:38:25,2023-08-09 14:38:25,0.000s,PASSED
+"sendKeys(input_first_name, firstName)",Chrome 115.0.0.0,,,2023-08-09 14:38:25,2023-08-09 14:38:28,2.857s,PASSED
+"sendKeys(input_last_name, lastName)",Chrome 115.0.0.0,,,2023-08-09 14:38:28,2023-08-09 14:38:28,0.420s,PASSED
+"sendKeys(input_email, email)",Chrome 115.0.0.0,,,2023-08-09 14:38:28,2023-08-09 14:38:28,0.326s,PASSED
+"setEncryptedText(input_pass, pass)",Chrome 115.0.0.0,,,2023-08-09 14:38:28,2023-08-09 14:38:29,0.452s,PASSED
+click(btn_register),Chrome 115.0.0.0,,,2023-08-09 14:38:29,2023-08-09 14:38:33,4.499s,PASSED
+,,,,,,,
+Test Cases/test_03,Chrome 115.0.0.0,,,2023-08-09 14:38:33,2023-08-09 14:38:52,18.538s,PASSED
+openBrowser(url_register),Chrome 115.0.0.0,,,2023-08-09 14:38:34,2023-08-09 14:38:42,8.269s,PASSED
+"firstName = ""test""",Chrome 115.0.0.0,,,2023-08-09 14:38:42,2023-08-09 14:38:42,0.003s,PASSED
+"lastName = ""thinm""",Chrome 115.0.0.0,,,2023-08-09 14:38:42,2023-08-09 14:38:42,0.001s,PASSED
+"pass = ""Pov689y2Uq6sPwo50fvP+g==""",Chrome 115.0.0.0,,,2023-08-09 14:38:42,2023-08-09 14:38:42,0.002s,PASSED
+"sendKeys(input_first_name, firstName)",Chrome 115.0.0.0,,,2023-08-09 14:38:42,2023-08-09 14:38:45,2.455s,PASSED
+"sendKeys(input_last_name, lastName)",Chrome 115.0.0.0,,,2023-08-09 14:38:45,2023-08-09 14:38:45,0.552s,PASSED
+"sendKeys(input_email, email)",Chrome 115.0.0.0,,,2023-08-09 14:38:45,2023-08-09 14:38:45,0.357s,PASSED
+"setEncryptedText(input_pass, pass)",Chrome 115.0.0.0,,,2023-08-09 14:38:46,2023-08-09 14:38:46,0.477s,PASSED
+click(btn_register),Chrome 115.0.0.0,,,2023-08-09 14:38:46,2023-08-09 14:38:52,5.917s,PASSED
+,,,,,,,
+Test Cases/test_03,Chrome 115.0.0.0,,,2023-08-09 14:38:52,2023-08-09 14:39:10,17.648s,PASSED
+openBrowser(url_register),Chrome 115.0.0.0,,,2023-08-09 14:38:52,2023-08-09 14:39:01,8.363s,PASSED
+"firstName = ""test""",Chrome 115.0.0.0,,,2023-08-09 14:39:01,2023-08-09 14:39:01,0.000s,PASSED
+"lastName = ""thinm""",Chrome 115.0.0.0,,,2023-08-09 14:39:01,2023-08-09 14:39:01,0.000s,PASSED
+"pass = ""Pov689y2Uq6sPwo50fvP+g==""",Chrome 115.0.0.0,,,2023-08-09 14:39:01,2023-08-09 14:39:01,0.001s,PASSED
+"sendKeys(input_first_name, firstName)",Chrome 115.0.0.0,,,2023-08-09 14:39:01,2023-08-09 14:39:02,1.572s,PASSED
+"sendKeys(input_last_name, lastName)",Chrome 115.0.0.0,,,2023-08-09 14:39:02,2023-08-09 14:39:04,1.220s,PASSED
+"sendKeys(input_email, email)",Chrome 115.0.0.0,,,2023-08-09 14:39:04,2023-08-09 14:39:05,0.985s,PASSED
+"setEncryptedText(input_pass, pass)",Chrome 115.0.0.0,,,2023-08-09 14:39:05,2023-08-09 14:39:05,0.355s,PASSED
+click(btn_register),Chrome 115.0.0.0,,,2023-08-09 14:39:05,2023-08-09 14:39:10,4.753s,PASSED

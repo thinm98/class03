@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue with email</name>
+   <tag></tag>
+   <elementGuidId>157bbe3f-137f-4eea-b45f-3e2f16868a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;commit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ecb8c3e-436c-44fa-9de1-b2baf9ccfa35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button ui-button--primary ui-button--full-width ui-button--size-large  captcha__submit</value>
+      <webElementGuid>f64e0a66-eafe-462a-beca-2dc92bbbaf22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ceefa068-904e-439f-b158-975bc642326b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>commit</value>
+      <webElementGuid>60214c54-3813-4561-a227-d0813f22f445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4b0fe969-7070-43d3-b7ca-457b1e8f29f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind-disabled</name>
+      <type>Main</type>
+      <value>captchaDisabled</value>
+      <webElementGuid>00a49647-c37b-4031-8b66-ada6ec33f59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>define</name>
+      <type>Main</type>
+      <value>{localClass: new CaptchaStateHandler($context, {
+                            v2Completed: true,
+                            v3EnterpriseCompleted: false,
+                            formCompleted: true,
+                          })}</value>
+      <webElementGuid>65c5c1e4-238c-4d1a-b46a-4dbd86a8fc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enable_submit_onload</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>85fc311f-ef1a-4c03-b904-2ff4afc565fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue with email</value>
+      <webElementGuid>e22c93a2-9c5a-4b03-95ee-f0ffb34076cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account_lookup&quot;)/div[5]/button[@class=&quot;ui-button ui-button--primary ui-button--full-width ui-button--size-large  captcha__submit&quot;]</value>
+      <webElementGuid>0afc8654-ae11-4161-b75a-452ba63ce657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='commit']</value>
+      <webElementGuid>0cb6a348-60b3-4c0d-83c0-e502e740371f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='account_lookup']/div[5]/button</value>
+      <webElementGuid>8dd720ab-11ae-47e3-94fa-0d278d7dc4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>1723c0a4-5aee-4696-8d2a-e716455b91f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='in'])[1]/following::button[1]</value>
+      <webElementGuid>353389aa-7a24-431b-b76f-57458ef8d228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::button[1]</value>
+      <webElementGuid>61ae0558-fffe-40f3-b8ab-5f1ebdc992ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with Apple'])[1]/preceding::button[1]</value>
+      <webElementGuid>8c5d9177-9b7a-40ca-8f5b-8650e8fc1b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue with email']/parent::*</value>
+      <webElementGuid>1b22982c-463e-4097-925b-e3a81bbf9397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>f662868a-52b1-4568-ae65-8bb5ef994d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'commit' and (text() = 'Continue with email' or . = 'Continue with email')]</value>
+      <webElementGuid>7f6cef48-4849-49eb-bca8-603f22d9f448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

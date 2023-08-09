@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test_login_list_email" time="57.367" tests="3" failures="0" errors="0">
+   <testsuite name="test_login_list_email" tests="3" failures="0" errors="0" time="57.367" skipped="0" timestamp="2023-08-09 14:38:12" hostname="nguyenmaithi - 192.168.100.11" id="Test Suites/test_login_list_email">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/nguyenmaithi/Downloads/automation/bai2-3/Reports/20230809_143801/test_login_list_email/20230809_143801"/>
+         <property name="logFiles" value="/Users/nguyenmaithi/Downloads/automation/bai2-3/Reports/20230809_143801/test_login_list_email/20230809_143801/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nguyenmaithi - 192.168.100.11"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="eee20974871202c72b8c9efdc38db4f0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/test_03" time="20.492" classname="Test Cases/test_03" status="PASSED">
+         <system-out><![CDATA[2023-08-09 14:38:13 - [TEST_CASE][PASSED] - Test Cases/test_03: Test Cases/test_03
+
+2023-08-09 14:38:14 - [TEST_STEP][PASSED] - openBrowser(url_register): Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:38:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-09 14:38:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-09 14:38:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:38:25 - [TEST_STEP][PASSED] - firstName = "test": null
+
+2023-08-09 14:38:25 - [TEST_STEP][PASSED] - lastName = "thinm": null
+
+2023-08-09 14:38:25 - [TEST_STEP][PASSED] - pass = "Pov689y2Uq6sPwo50fvP+g==": null
+
+2023-08-09 14:38:25 - [TEST_STEP][PASSED] - sendKeys(input_first_name, firstName): Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:38:28 - [MESSAGE][PASSED] - Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:38:28 - [TEST_STEP][PASSED] - sendKeys(input_last_name, lastName): Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:38:28 - [MESSAGE][PASSED] - Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:38:28 - [TEST_STEP][PASSED] - sendKeys(input_email, email): Keys 'thi1@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:38:28 - [MESSAGE][PASSED] - Keys 'thi1@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:38:28 - [TEST_STEP][PASSED] - setEncryptedText(input_pass, pass): Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:38:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:38:29 - [TEST_STEP][PASSED] - click(btn_register): Object: 'Object Repository/Test03/btn_register' is clicked on
+
+2023-08-09 14:38:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Test03/btn_register' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test_03" time="18.538" classname="Test Cases/test_03" status="PASSED">
+         <system-out><![CDATA[2023-08-09 14:38:33 - [TEST_CASE][PASSED] - Test Cases/test_03: Test Cases/test_03
+
+2023-08-09 14:38:34 - [TEST_STEP][PASSED] - openBrowser(url_register): Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:38:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-08-09 14:38:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-09 14:38:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-09 14:38:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:38:42 - [TEST_STEP][PASSED] - firstName = "test": null
+
+2023-08-09 14:38:42 - [TEST_STEP][PASSED] - lastName = "thinm": null
+
+2023-08-09 14:38:42 - [TEST_STEP][PASSED] - pass = "Pov689y2Uq6sPwo50fvP+g==": null
+
+2023-08-09 14:38:42 - [TEST_STEP][PASSED] - sendKeys(input_first_name, firstName): Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:38:45 - [MESSAGE][PASSED] - Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:38:45 - [TEST_STEP][PASSED] - sendKeys(input_last_name, lastName): Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:38:45 - [MESSAGE][PASSED] - Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:38:45 - [TEST_STEP][PASSED] - sendKeys(input_email, email): Keys 'thi2@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:38:45 - [MESSAGE][PASSED] - Keys 'thi2@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:38:46 - [TEST_STEP][PASSED] - setEncryptedText(input_pass, pass): Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:38:46 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:38:46 - [TEST_STEP][PASSED] - click(btn_register): Object: 'Object Repository/Test03/btn_register' is clicked on
+
+2023-08-09 14:38:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Test03/btn_register' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test_03" time="17.648" classname="Test Cases/test_03" status="PASSED">
+         <system-out><![CDATA[2023-08-09 14:38:52 - [TEST_CASE][PASSED] - Test Cases/test_03: Test Cases/test_03
+
+2023-08-09 14:38:52 - [TEST_STEP][PASSED] - openBrowser(url_register): Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:38:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-08-09 14:38:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-09 14:38:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-09 14:39:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://auto2023.myshopify.com/account/register'
+
+2023-08-09 14:39:01 - [TEST_STEP][PASSED] - firstName = "test": null
+
+2023-08-09 14:39:01 - [TEST_STEP][PASSED] - lastName = "thinm": null
+
+2023-08-09 14:39:01 - [TEST_STEP][PASSED] - pass = "Pov689y2Uq6sPwo50fvP+g==": null
+
+2023-08-09 14:39:01 - [TEST_STEP][PASSED] - sendKeys(input_first_name, firstName): Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:39:02 - [MESSAGE][PASSED] - Keys 'test' sent to object: 'Object Repository/Test03/input_first_name'
+
+2023-08-09 14:39:02 - [TEST_STEP][PASSED] - sendKeys(input_last_name, lastName): Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:39:04 - [MESSAGE][PASSED] - Keys 'thinm' sent to object: 'Object Repository/Test03/input_last_name'
+
+2023-08-09 14:39:04 - [TEST_STEP][PASSED] - sendKeys(input_email, email): Keys 'thi3@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:39:05 - [MESSAGE][PASSED] - Keys 'thi3@gmail.com' sent to object: 'Object Repository/Test03/input_email'
+
+2023-08-09 14:39:05 - [TEST_STEP][PASSED] - setEncryptedText(input_pass, pass): Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:39:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Test03/input_pass'
+
+2023-08-09 14:39:05 - [TEST_STEP][PASSED] - click(btn_register): Object: 'Object Repository/Test03/btn_register' is clicked on
+
+2023-08-09 14:39:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Test03/btn_register' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-09 14:38:12 - [TEST_SUITE][PASSED] - test_login_list_email: Test Cases/test_03]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

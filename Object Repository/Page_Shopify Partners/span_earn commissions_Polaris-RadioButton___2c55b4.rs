@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_earn commissions_Polaris-RadioButton___2c55b4</name>
+   <tag></tag>
+   <elementGuidId>5ca74367-c0fa-42b4-bbec-bb79b8aca468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Polaris-RadioButton__Backdrop.Polaris-RadioButton--hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='AppFrameMain']/div/div/div[2]/div/div/div/div[2]/fieldset/ul/li[2]/div/div/label/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24ac7a84-6eaf-43d2-b5dd-f646977df738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Polaris-RadioButton__Backdrop Polaris-RadioButton--hover</value>
+      <webElementGuid>c07e3bc2-de47-4553-9e22-35898efdf3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AppFrameMain&quot;)/div[@class=&quot;Polaris-Frame__Content&quot;]/div[@class=&quot;Polaris-Page&quot;]/div[@class=&quot;Polaris-Page--divider&quot;]/div[@class=&quot;Polaris-Layout&quot;]/div[@class=&quot;Polaris-Layout__Section&quot;]/div[@class=&quot;Polaris-Card&quot;]/div[@class=&quot;Polaris-Card__Section Polaris-Card__Section--subdued&quot;]/fieldset[@class=&quot;Polaris-AlphaStack Polaris-AlphaStack--fieldsetReset&quot;]/ul[@class=&quot;Polaris-AlphaStack Polaris-AlphaStack--listReset&quot;]/li[2]/div[@class=&quot;Polaris-Bleed&quot;]/div[1]/label[@class=&quot;Polaris-Choice&quot;]/span[@class=&quot;Polaris-Choice__Control&quot;]/span[@class=&quot;Polaris-RadioButton&quot;]/span[@class=&quot;Polaris-RadioButton__Backdrop Polaris-RadioButton--hover&quot;]</value>
+      <webElementGuid>7c8d4a50-932f-4759-ba44-819cbcf549b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='AppFrameMain']/div/div/div[2]/div/div/div/div[2]/fieldset/ul/li[2]/div/div/label/span/span/span</value>
+      <webElementGuid>4d2bcc0a-29aa-4ced-bc49-56c70799711d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/label/span/span/span</value>
+      <webElementGuid>cdfd7097-ca86-4dcd-94d7-159180e1f2d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
